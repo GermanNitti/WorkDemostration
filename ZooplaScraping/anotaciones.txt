@@ -1,0 +1,12 @@
+debe entrar a las urls scrapeadas para:
+
+luego entrar al "div"
+class="clearfix bottom"
+
+luego acceder al "ul"
+ class="bullet-col-3-alpha"
+
+ Luego al "li"
+
+y extraer los "a"
+href
